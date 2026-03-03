@@ -1,6 +1,7 @@
 # 🚀 Tech Stack
 
----
+#### 🧪Building the end-to-end solution for R&D teams.
+#### 👩‍🔬Revolutionizing the materials industry with each new product.
 
 ## 🎨 Frontend
 
